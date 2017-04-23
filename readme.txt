@@ -5,5 +5,5 @@ Git tracks changes of files.
 My boss still prefer SVN.
 -----------------------------------------
 after push this git to the remote library.
-Creating a branch is quick & simple.
+Creating a branch is quick and simple.
 
